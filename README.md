@@ -1,4 +1,4 @@
-# Heatmap Component Documentation
+# Heatmap Component for algeria Documentation
 
 ## Overview
 The Heatmap component is a React component that creates an interactive heatmap visualization using an SVG map of Algeria. It displays data intensity across different regions using color gradients and provides interactive tooltips.
