@@ -133,3 +133,7 @@ The component implements ARIA labels for each region and supports keyboard navig
 
 - React 16.8+
 - D3.js 7+
+
+## example 
+![image](https://github.com/user-attachments/assets/46bc6cac-999e-4a13-b7b7-38ea52f9ac2d)
+
